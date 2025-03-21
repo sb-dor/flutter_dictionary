@@ -1,0 +1,1 @@
+/Users/avaz/StudioProjects/flutter_dictionary/build/app/intermediates/cxx/Debug/206a2119/obj/x86_64
